@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Lausanne';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lausanne'),
+    url('/fonts/MfxTdjQ0Q50m.woff') format('woff');
+}
+
+body {
+  font-family: 'Lausanne', sans-serif;
+}
+
+
+.collapse-content {
+  transition: max-height 0.5s ease-out;
+  overflow: hidden;
+  height: 0;
+  height: 0;
+}
+
+.collapse-content.open {
+  max-height: 1110px;
+  min-height: 1110px;
+}
+
+.collapse-content.open1 {
+  max-height: 850px;
+  min-height: 850px;
+}

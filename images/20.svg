@@ -1,0 +1,33 @@
+<svg viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg" height="24"
+    width="24"
+    class="box-content block size-[14px] !text-[14px] text-black lg:size-6 lg:!text-[24px]">
+    <path
+        d="M12.6144 7.65527L16.3771 9.82769V14.1725L12.6144 16.3449L8.85163 14.1725V9.82769L12.6144 7.65527Z"
+        stroke="currentColor" stroke-width="1.875"></path>
+    <path d="M12.6133 7.65537L12.6133 3.31055" stroke="currentColor" stroke-width="1.875"
+        stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M12.6133 16.3446L12.6133 20.6895" stroke="currentColor" stroke-width="1.875"
+        stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="12.6143" cy="2.94828" r="1.44828" stroke="currentColor"
+        stroke-width="1.875" stroke-linecap="round"></circle>
+    <circle cx="1.44828" cy="1.44828" r="1.44828" transform="matrix(1 0 0 -1 11.166 22.5)"
+        stroke="currentColor" stroke-width="1.875" stroke-linecap="round"></circle>
+    <path d="M16.3779 9.82769L20.1406 7.65527" stroke="currentColor" stroke-width="1.875"
+        stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M8.85062 14.1723L5.08789 16.3447" stroke="currentColor" stroke-width="1.875"
+        stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="20.4504" cy="7.47155" r="1.44828" transform="rotate(60 20.4504 7.47155)"
+        stroke="currentColor" stroke-width="1.875" stroke-linecap="round"></circle>
+    <circle cx="1.44828" cy="1.44828" r="1.44828"
+        transform="matrix(0.5 0.866025 0.866025 -0.5 2.79688 15.9932)" stroke="currentColor"
+        stroke-width="1.875" stroke-linecap="round"></circle>
+    <path d="M16.3779 14.1723L20.1406 16.3447" stroke="currentColor" stroke-width="1.875"
+        stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M8.85062 9.82769L5.08789 7.65527" stroke="currentColor" stroke-width="1.875"
+        stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="20.4533" cy="16.5233" r="1.44828" transform="rotate(120 20.4533 16.5233)"
+        stroke="currentColor" stroke-width="1.875" stroke-linecap="round"></circle>
+    <circle cx="1.44828" cy="1.44828" r="1.44828"
+        transform="matrix(-0.5 0.866025 0.866025 0.5 4.24414 5.49316)" stroke="currentColor"
+        stroke-width="1.875" stroke-linecap="round"></circle>
+</svg>
